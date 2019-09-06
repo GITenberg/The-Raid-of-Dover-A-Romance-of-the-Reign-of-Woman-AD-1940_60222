@@ -1,0 +1,27 @@
+_repo: The-Raid-of-Dover-A-Romance-of-the-Reign-of-Woman-AD-1940_60222
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ford, Douglas Morey
+    birthdate: 1851
+    deathdate: 1916
+    gutenberg_agent_id: '50853'
+    url: http://www.gutenberg.org/2009/agents/50853
+    wikipedia: https://en.wikipedia.org/wiki/Douglas_Morey_Ford
+description: ''
+gutenberg_issued: '2019-09-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60222'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Socialism -- Fiction'
+- !lcsh 'Women -- Suffrage -- Great Britain -- Fiction'
+- !lcsh 'Imaginary wars and battles -- Fiction'
+- GITenberg
+title: 'The Raid of Dover: A Romance of the Reign of Woman, A.D. 1940'
+url: http://www.gutenberg.org/ebooks/60222
